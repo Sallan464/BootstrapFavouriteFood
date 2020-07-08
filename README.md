@@ -9,14 +9,14 @@ If you are joining a team, you may find that frameworks have already been decide
 What you want to create \
 It is already decided by the project owners \
 Developer skillset \
-Developer want to learn \
+Developer want to learn
 ### Red Flags
 Not knowing the language used (eg. right now, you will want to avoid frameworks that rely on JavaScript as we've not covered it yet) \
 Hard to read documentation \
-Hard to get started \
+Hard to get started
 
 ***
 
 # Resources
 [Bootstrap Docs](https://getbootstrap.com/docs/4.5/getting-started/introduction/) \
-[Bootstrap CSS file](https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.css) \
+[Bootstrap CSS file](https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.css)
