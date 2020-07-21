@@ -1,4 +1,4 @@
-# Study Notes
+### Study Notes
 [Frameworks](https://github.com/getfutureproof/fp_guides_wiki/wiki/Frameworks)
 
 # Exercises
