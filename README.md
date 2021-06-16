@@ -3,7 +3,7 @@
 
 # Exercises
 Choose your favourite food.
-- Create a website using a web framework of your choosing
+- Create a website using a CSS framework of your choosing
 - Your website should include three pages
     + A homepage
     + A list of ingredients in your favourite food or a recipe to make it
